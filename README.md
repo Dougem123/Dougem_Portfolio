@@ -1,12 +1,12 @@
  NASCAR Driver Winnings Regression Analysis
 
 ## Project Overview
-This project explores which **performance factors** most strongly influence **NASCAR driver earnings**. Using 2011 NASCAR performance data, I built a multiple linear regression model to predict driver winnings and visualized insights in Tableau.
+This project explores which performance factors most strongly influence NASCAR driver earnings. Using 2011 NASCAR performance data, I built a multiple linear regression model to predict driver winnings and visualized insights in Tableau.
 
 ## Goals
 - Identify which performance metrics best predict driver earnings.
-- Build a **multiple regression model** to estimate earnings.
-- Create **easy-to-understand visualizations** to support team and business decision-making.
+- Build a multiple regression model to estimate earnings.
+- Create easy-to-understand visualizations to support team and business decision-making.
 
 ## Tools Used
 - **Excel** — for regression modeling and variable engineering.
